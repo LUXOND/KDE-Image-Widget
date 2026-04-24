@@ -1,6 +1,6 @@
 # KDE Image Widget
 
-A KDE Plasma widget that displays images or GIFs on your desktop with rounded corners and no borders.
+A KDE Plasma widget that displays images or GIFs on your desktop with rounded corners and no borders. (build with AI)
 
 ## Features
 
