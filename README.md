@@ -55,10 +55,8 @@ kquitapp6 plasmashell && plasmashell &
 ## Usage
 
 1. Add the widget to your desktop
-2. Click on the widget or right-click → "Configure Widget"
-3. Click "Browse..." to select an image or GIF
-4. Adjust the corner radius (0-50 pixels)
-5. The widget will display your image with the configured rounded corners
+2. Drag and Drop the Image or GIF to the widget
+3. The widget will display your image with the configured rounded corners
 
 ## Supported Formats
 
